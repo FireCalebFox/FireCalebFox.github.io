@@ -12,6 +12,7 @@
 #Title {
 	background-color: white;
 	color: firebrick;
+	margin: auto;
 }
 #Title:hover {
 	font-weight: bold;
