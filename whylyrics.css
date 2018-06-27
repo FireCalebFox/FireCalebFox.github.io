@@ -9,12 +9,17 @@
 	color: white;
   
 }
-#Title {
+#title {
 	background-color: white;
+	
 	color: firebrick;
+	
 	margin: auto;
+	
 	width: 50%;
-	padding: 5px
+	
+	padding: 5px;
+	
 	border: 4px inset gold;
 }
 body p {
