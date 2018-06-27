@@ -17,7 +17,10 @@ body p {
 	font-size: 1em;
          
 	text-align: center;
-  
+	
+	background-color: white;
+	
+	color: rgb(50, 75, 255);
 }
   
 #footer {
