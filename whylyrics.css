@@ -2,7 +2,7 @@
         
 	background-color: blue;
         
-	border: 100px groove brown;
+	border: 75px groove brown;
         
 	text-align: center;
         
@@ -24,15 +24,15 @@ body p {
           
 	text-align: center;
           
-	font-size: 14px;
+	font-size: 18px;
           
 	color: black;
           
-	background-color: orange;
+	background-color: brown;
           
 	height: 5%;
           
-	font-fanily: serif;
+	font-family: Proxima Sans Nova;
           
 	width: 100%;
           
