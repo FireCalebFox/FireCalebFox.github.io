@@ -42,11 +42,11 @@ body p {
           
 	text-align: center;
           
-	font-size: 18px;
+	font-size: 16px;
           
 	color: black;
           
-	background-color: brown;
+	background-color: firebrick;
           
 	height: 5%;
           
@@ -59,4 +59,21 @@ body p {
 	line-height: 1.7;     
     
 }
-  
+#footer a:link {
+	color: blue;	
+}
+#footer a:hover {
+	color: red;
+	text-decoration: none;
+	font-weight: italic;
+}
+#footer a:active {
+	color: orange;	
+}
+#footer a:visited {
+	color: purple;
+}
+#footer a:focus {
+	color: aqua;
+	text-decoration: none;
+}
