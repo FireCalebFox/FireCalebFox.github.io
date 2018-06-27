@@ -13,10 +13,7 @@
 	background-color: white;
 	color: firebrick;
 	margin: auto;
-}
-#Title:hover {
-	font-weight: bold;
-	font-size: 2em;
+	width: 50px;
 }
 body p {
          
