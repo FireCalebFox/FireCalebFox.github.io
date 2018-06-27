@@ -9,7 +9,14 @@
 	color: white;
   
 }
-  
+#Title {
+	background-color: white;
+	color: firebrick;
+}
+#Title span:hover {
+	font-weight: bold;
+	font-size: bigger;
+}
 body p {
          
 	font-family: Arial;
@@ -28,7 +35,7 @@ body p {
 	
 	margin: auto;
 }
-  
+
 #footer {
           
 	text-align: center;
