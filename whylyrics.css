@@ -13,9 +13,9 @@
 	background-color: white;
 	color: firebrick;
 }
-#Title span:hover {
+#Title:hover {
 	font-weight: bold;
-	font-size: bigger;
+	font-size: 2em;
 }
 body p {
          
