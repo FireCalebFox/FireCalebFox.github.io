@@ -57,7 +57,7 @@ body h2 {
 	padding-left: 10px;
 }
 #footer {
-        display: inline;
+        display: inline-block;
 	
 	text-align: center;
           
@@ -78,12 +78,6 @@ body h2 {
 	position: relative;
           
 	line-height: 1.8;
-	
-	padding: 0;
-    	
-	margin-left: 50px;
-	margin-right: 50px;
-	position: fixed;
 }
 #footer a:link {
 	color: blue;	
