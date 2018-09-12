@@ -79,10 +79,10 @@ body h2 {
           
 	line-height: 1.8;
 	
-	padding: 5px;
 	padding-left: 75px;
 	padding-right: 75px;
-    
+    	
+	position: absolute;
 }
 #footer a:link {
 	color: blue;	
