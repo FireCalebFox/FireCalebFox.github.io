@@ -1,0 +1,104 @@
+box { 
+	background-color: blue;
+        
+	border: 75px groove brown;
+        
+	text-align: center;
+        
+	color: white;
+  
+}
+body h2 { 
+	background-color: white;
+	
+	color: firebrick;
+	
+	margin: auto;
+	
+	width: 50%;
+	
+	padding: 5px;
+	
+	border: 4px inset gold;
+}
+#box h2 {
+	box-shadow: 46px 2px 2px 2px black;	
+}
+#box p {
+         
+	font-family: Arial;
+         
+	font-size: 1em;
+         
+	text-align: center;
+	
+	background-color: white;
+	
+	color: rgb(50, 75, 255);
+	
+	width: 50%;
+	
+	padding: 5px;
+	
+	margin: auto;
+	
+	border: 4px outset silver;
+	
+        box-shadow: 46px 2px 2px 2px black;
+}
+#intro-top {
+	border: 4px solid black;
+	background-color: gold;
+	font-size: 1.1em;
+	color: black;
+	padding: 10px;
+	
+}
+#firsttext {
+	font-weight: bold;
+	font-size: 1.2em
+	color: blue;
+	padding-left: 10px;
+}
+#footer {
+        display: inline-block;
+	
+	text-align: center;
+          
+	font-size: 16px;
+          
+	color: black;
+	
+	font-weight: bold;
+          
+	background-color: orange;
+          
+	height: 5%;
+          
+	font-family: Proxima Sans Nova;
+          
+	width: 100%;
+          
+	position: relative;
+          
+	line-height: 1.8;
+}
+#footer a:link {
+	color: blue;	
+}
+#footer a:hover {
+	color: red;
+	text-decoration: none;
+	font-weight: bold;
+}
+#footer a:active {
+	color: orange;	
+}
+#footer a:visited {
+	color: purple;
+	text-decoration: underline;
+}
+#footer a:focus {
+	color: aqua;
+	text-decoration: none;
+}
