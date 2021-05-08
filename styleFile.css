@@ -22,7 +22,8 @@ body h2 {
 	border: 4px inset gold;
 }
 #box h2 {
-	box-shadow: 46px 2px 2px 2px black;	
+	box-shadow: 46px 2px 2px 2px black;
+	text-align: center;
 }
 #box p {
          
